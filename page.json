@@ -9,6 +9,78 @@
         { "youtube": "https://www.youtube.com/watch?v=PVn3DRM5Q0A" },
         { "image": "https://tago.io/static/product/images/connectivity/machine.svg" }
       ]
+    },
+    {
+      "name": "Industrial Automation",
+      "short_description": "Industrial application for smart machines.",
+      "repo": "tago-io/explore-asset-tracking",
+      "media": [
+        { "image": "https://api.tago.io/file/5bbcb03b667d7a002e56664b/explore/industrial_automation.png" }
+      ]
+    },
+    {
+      "name": "Chicago Bus",
+      "short_description": "Transportation demo for telemetry and tracking of buses in Chicago, IL.",
+      "repo": "tago-io/explore-asset-tracking",
+      "media": [
+        { "image": "https://api.tago.io/file/5bbcb03b667d7a002e56664b/explore/chicago_bus.png" }
+      ]
+    },
+    {
+      "name": "Smart Irrigation",
+      "short_description": "Water monitoring and control demo applied in agriculture.",
+      "repo": "tago-io/explore-asset-tracking",
+      "media": [
+        { "image": "https://api.tago.io/file/5bbcb03b667d7a002e56664b/explore/smart_irrigation.png" }
+      ]
+    },
+    {
+      "name": "Cold Management",
+      "short_description": "Freezers and coolers monitoring demo for alerts and usage indicators.",
+      "repo": "tago-io/explore-asset-tracking",
+      "media": [
+        { "image": "https://api.tago.io/file/5bbcb03b667d7a002e56664b/explore/cold_management.png" }
+      ]
+    },
+    {
+      "name": "Refrigerated Truck",
+      "short_description": "Real-time location and temperature monitoring demo for trucks.",
+      "repo": "tago-io/explore-asset-tracking",
+      "media": [
+        { "image": "https://api.tago.io/file/5bbcb03b667d7a002e56664b/explore/refrigerated_truck.png" }
+      ]
+    },
+    {
+      "name": "Warehouse Indoor Location",
+      "short_description": "Indoor Real Time location demo for warehouse.",
+      "repo": "tago-io/explore-asset-tracking",
+      "media": [
+        { "image": "https://api.tago.io/file/5bbcb03b667d7a002e56664b/explore/warehouse_indor_location.jpg" }
+      ]
+    },
+    {
+      "name": "Farm dashboard",
+      "short_description": "Farm demo, monitoring silo level, soil and air temperature/humidty.",
+      "repo": "tago-io/explore-asset-tracking",
+      "media": [
+        { "image": "https://api.tago.io/file/5bbcb03b667d7a002e56664b/explore/bin.png" }
+      ]
+    },
+    {
+      "name": "Generate Report",
+      "short_description": "Generate a report from data buckets using dashboard.",
+      "repo": "tago-io/explore-asset-tracking",
+      "media": [
+        { "image": "https://api.tago.io/file/5bbcb03b667d7a002e56664b/explore/generate_report.jpg" }
+      ]
+    },
+    {
+      "name": "NYC Bridge",
+      "short_description": "Realtime monitor demo for water level and temperature, with live video from NYC Bridge.",
+      "repo": "tago-io/explore-asset-tracking",
+      "media": [
+        { "image": "https://api.tago.io/file/5bbcb03b667d7a002e56664b/explore/bridge.png" }
+      ]
     }
   ]
 }
