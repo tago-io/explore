@@ -1,1 +1,14 @@
-
+{
+  "banner": [ "tago-io/explore-asset-tracking" ],
+  "items": [
+    {
+      "name": "Asset Tracking",
+      "short_description": "Tracking system for ship containers with reports, alerts, geofence and more.",
+      "repo": "tago-io/explore-asset-tracking",
+      "media": [
+        { "youtube": "https://www.youtube.com/watch?v=PVn3DRM5Q0A" },
+        { "image": "https://tago.io/static/product/images/connectivity/machine.svg" }
+      ]
+    }
+  ]
+}
