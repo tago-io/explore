@@ -6,7 +6,7 @@
       "short_description": "Tracking system for ship containers with reports, alerts, geofence and more.",
       "repo": "tago-io/explore-asset-tracking",
       "media": {
-        "video": "https://tago-storage.s3.amazonaws.com/Videos/explore_assettracking+(1).mp4",
+        "video": "https://tago-storage.s3.amazonaws.com/Videos/Explore/explore_assettracking.mp4",
         "image": "https://tago.io/static/product/images/connectivity/machine.svg"
       }
     },
@@ -15,7 +15,7 @@
       "short_description": "Industrial application for smart machines.",
       "repo": "tago-io/explore-asset-tracking",
       "media": {
-        "video": "https://",
+        "video": "https://tago-storage.s3.amazonaws.com/Videos/Explore/explore_assettracking.mp4",
         "image": "https://api.tago.io/file/5bbcb03b667d7a002e56664b/explore/industrial_automation.png"
       }
     },
@@ -24,7 +24,7 @@
       "short_description": "Transportation demo for telemetry and tracking of buses in Chicago, IL.",
       "repo": "tago-io/explore-asset-tracking",
       "media": {
-        "video": "https://",
+        "video": "https://tago-storage.s3.amazonaws.com/Videos/Explore/explore_assettracking.mp4",
         "image": "https://api.tago.io/file/5bbcb03b667d7a002e56664b/explore/chicago_bus.png"
       }
     },
